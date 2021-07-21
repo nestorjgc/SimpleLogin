@@ -8,6 +8,8 @@
 
 <br>Ask user for username
 If "nestor" and "garcia123" are true, then "Succcessful Login".
+<br>
+<br>
 
 ![](imgs/Capture.PNG)
 
