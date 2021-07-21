@@ -9,8 +9,7 @@
 <br>Ask user for username
 If "nestor" and "garcia123" are true, then "Succcessful Login".
 
-![](imgs/CA)
+![](imgs/CAPTURE.PNG)
 
 <br>
 <p> <b>Nestor Garcia</b></p>
-
