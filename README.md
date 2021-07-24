@@ -14,4 +14,4 @@ If "nestor" and "garcia123" are true, then "Succcessful Login".
 ![](imgs/Capture.PNG)
 
 <br>
-<p> <b>Nestor Garcia.</b></p>
+<p> <b>Nestor Garcia</b></p>
