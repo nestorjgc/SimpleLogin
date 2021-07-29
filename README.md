@@ -2,7 +2,7 @@
 <h3><ul><li>C++</ul></li>
 
 <br>
---------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 <br>
 <br>This program is a login system for the administrator only. (While loop used, strings, if,else) This is a work in progress that I have. <br><br>The goals for this project are to apply this code to one of my future projects.
 
