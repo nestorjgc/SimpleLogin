@@ -12,9 +12,9 @@
 <br>
 
 ![](imgs/Capture.PNG)
-
-<br>
-<p> <b>Nestor Garcia</b></p>
+## 
+## Nestor Garcia
+  
 
 
 
